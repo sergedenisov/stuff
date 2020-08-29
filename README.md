@@ -1,7 +1,17 @@
 # stuff
-random programs include the following
+объяснение программ
 
+array flip: 
+переворачивает массив
 
-bubble sorting: sorts a randomly made array
+array max min find: 
+находит максимальное и минимальное число в массиве
 
-factorial and exponent: a functions that find factorial of a number, a function that finds a^b from input a and b
+array search: 
+находит конкретное целое число в массиве
+
+bubble sorting: 
+сортирует массив, заполненный случайными числами
+
+factorial and exponent: 
+функция, которая находит факториал числа и функцию, которая находит a^b из входных a и b
